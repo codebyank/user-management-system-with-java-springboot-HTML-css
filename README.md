@@ -1,8 +1,7 @@
 # User Management System
 - This app is store user information eg. userId, firstname, lastname, email etc. And perform all CRUD operation on  their user info.
 
-## Screenshot
-- ![Screenshot (19)](https://user-images.githubusercontent.com/109346750/217376334-e8eb082e-26a3-47d1-973a-3001c9e9ba10.png)
+
 ## Tools
 - Intellij.
 ## Prerequisites
