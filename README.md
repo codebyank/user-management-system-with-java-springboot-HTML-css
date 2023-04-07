@@ -18,8 +18,7 @@
 - Maven 
 ## Install
 - Maven and Jdk.
-## Screenshot
-![Uploading Screenshot (19).png…]()
+
 ## Tech Stack
 - Java,SpringBoot,HTML-CSS
 ## Working
